@@ -6,6 +6,10 @@ So that I can start using the bookmark manager,
 I'd like to sign up.
 
 As a user,
+So that I can access my bookmark manager,
+I'd like to sign in.
+
+As a user,
 So that I can use the links I have created,
 I'd like to view my list of links.
 
